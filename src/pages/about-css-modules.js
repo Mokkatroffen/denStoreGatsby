@@ -12,7 +12,7 @@ const User = props => (
 )
 export default () => (
   <Container>
-    <h1>About CSS Modules</h1>
+    <h1>Abouts CSS Modules</h1>
     <p>CSS Modules are cool</p>
     <User
       username="Penis cum Doe"
