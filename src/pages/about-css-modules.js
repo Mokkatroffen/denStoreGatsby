@@ -12,7 +12,11 @@ const User = props => (
 )
 export default () => (
   <Container>
+<<<<<<< HEAD
     <h1>Abouts CSS Modules</h1>
+=======
+    <h1>About CSS Modules</h1>
+>>>>>>> origin/master
     <p>CSS Modules are cool</p>
     <User
       username="Penis cum Doe"
